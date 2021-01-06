@@ -14,3 +14,4 @@ expo init project's name
 1. java, swift 로 이어지는 브릿지를 통한 코딩
 2. flexbox:column이 기본입니다.
 3. View = div
+4. expo install expo-linear-gradient
